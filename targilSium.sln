@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "targilSium", "targilSium\targilSium.csproj", "{A15909BB-ACAD-43F8-9EC5-937AA8070A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A15909BB-ACAD-43F8-9EC5-937AA8070A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15909BB-ACAD-43F8-9EC5-937AA8070A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15909BB-ACAD-43F8-9EC5-937AA8070A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15909BB-ACAD-43F8-9EC5-937AA8070A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D5DE7C6-B376-48E7-81EE-CD1EEF1DD25E}
+	EndGlobalSection
+EndGlobal
